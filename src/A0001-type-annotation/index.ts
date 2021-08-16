@@ -10,3 +10,5 @@ function soma(x: number, y: number): number {
 }
 
 const subtracao: (x: number, y: number) => number = (x, y) => x - y;
+
+export { pessoa };
